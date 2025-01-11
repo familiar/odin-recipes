@@ -1,0 +1,1 @@
+Unfortunately UCLA is teaching us C++ instead of full-stack. Out uses .js frameworks so I will be becoming a full-stack developer to help work on Out.so development. I am doing this using Odin Project as recommended by Elliot (Co-founder).
